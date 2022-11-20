@@ -12,7 +12,7 @@ import java.util.*;
 public class MyCombine {
     public static void main(String[] args) {
         String[] a = {"01", "07", "03", "14","05"};
-        int num = 4;
+        int num = 3;
         MyCombine tp = new MyCombine();
         for (Object obj : tp.combine(a, num)) {
 //            break;

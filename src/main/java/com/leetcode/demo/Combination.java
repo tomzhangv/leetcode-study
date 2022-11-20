@@ -92,7 +92,7 @@ public class Combination {
 
 
     public static void main(String[] args) {
-        int[] arr = new int[]{1, 2, 3, 4, 5,6,7,8,9,10,11,12,13,14};//m个数字
+        int[] arr = new int[]{1, 2, 3, 4, 5};//m个数字
         int n = 4;//取n个数
         List list=new ArrayList<>();
         List<Integer> lists = new ArrayList<Integer>();
